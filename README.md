@@ -19,4 +19,4 @@ Como descrito anteriormente para realização desse experimento utilizamos os al
 
 **Sugestão 1:** Predizer o valor TEMPO baseado nas skills (KNN)
 **Sugestão 2:** Classificar nível do aluno (Básico, interm., Avançado) utilizando as avaliações (Decision Tree ou Random Forest)
-**Sugestão 3:** Predizer o valor de aprovação (binário) considerando os tipos de reações (Regressão linear)
+**Sugestão 3:** Predizer o valor de aprovação (binário) considerando os tipos de reações (Regressão linear).
