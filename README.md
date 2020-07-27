@@ -2,12 +2,12 @@
 
 Utilizando o dataset  E-Learning Student Reactions disponível no Kaggle, queremos classificar o comportamento dos alunos com tendo como base as "reações online" durante uma disciplina.  Trabalharemos com os atributos abaixo que dispõem de pontuação concernente as "Habilidades do Século 21", em uma escala de 0 a 10 em cada Habilidade, e o "Tempo Online" dos alunos.
 
-**timeonline** - Tempo total que o aluno passou online durante a disciplina;
-**sk1_classroom** - Habilidades de pensamento crítico e capacidade de resolução de problemas; 
-**sk2_classroom** - Habilidades de criatividade e inovação; 
-**sk3_classroom**- Habilidades auto-aprendizado ;
-**sk4_classroom** - Habilidades de colaboração e auto-direção;
-**sk5_classroom** - Responsabilidade social e cultural;
+**timeonline** - Tempo total que o aluno passou online durante a disciplina;<br/>
+**sk1_classroom** - Habilidades de pensamento crítico e capacidade de resolução de problemas;<br/> 
+**sk2_classroom** - Habilidades de criatividade e inovação;<br/>
+**sk3_classroom**- Habilidades auto-aprendizado ;<br/>
+**sk4_classroom** - Habilidades de colaboração e auto-direção;<br/>
+**sk5_classroom** - Responsabilidade social e cultural;<br/>
 
 Utilizando os algorítmo machine learning queremos  dentro de nossa análise identificar a correlação entre as variáveis para responder algumas perguntas como :
 
